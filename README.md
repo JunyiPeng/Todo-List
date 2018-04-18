@@ -5,7 +5,6 @@ Todo List Project (javascript)
 Simple project with javascript, css and jQuery
 
 - lib： jQuery
-<br>
 - css: font awesome
 
 
